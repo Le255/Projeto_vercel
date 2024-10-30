@@ -1,0 +1,36 @@
+body{
+    background-color: #E8E8E8;
+}
+
+.titulo{
+    color: #ffb1c3;
+    text-align: center;
+    font-family: 'Rubik', sans-serif;
+    font-style: italic;
+}
+
+ul{
+    position: relative;
+    top: 25%;
+    margin-left: 29%;
+    list-style: none;
+    background-image: linear-gradient(45deg, #FFD1DC, #ffc2d0 ,#fd9cb3);
+    border: solid black 4px;
+    box-shadow: 10px 10px 10px 4px rgb(105, 113, 122);
+    text-align: center;
+    padding-top: 30px;
+    padding-right: 30px;
+    width: 485px;
+    height: 400px;
+}
+
+.link{
+    text-decoration: none;
+    color: #000;
+}
+
+.paragrafo{
+    text-align: center;
+    font-weight: bold;
+}
+ 
